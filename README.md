@@ -114,7 +114,11 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
     </td>
   </tr>
 </table>
-# Achievements and Insights
+<h1 align="center">
+  <span style="color: #4A90E2; font-family: Arial, sans-serif; font-size: 36px;">
+    Achievements and Insights
+  </span>
+</h1>
 
 <table>
   <tr>
@@ -138,6 +142,7 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
     </td>
   </tr>
 </table>
+
 
 
 
