@@ -31,9 +31,10 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
 </table>
 <table>
   <tr>
+    <table>
+  <tr>
     <td>
-      <img src="![image](https://github.com/user-attachments/assets/46e590db-05ba-41d9-bdaa-f8bb4e4b3cc7)
-" alt="Linear Curves" width="300">
+      <img src="https://github.com/user-attachments/assets/46e590db-05ba-41d9-bdaa-f8bb4e4b3cc7" alt="Linear Curves" width="300">
     </td>
     <td>
       <h3>Linear curves</h3>
@@ -42,6 +43,7 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
     </td>
   </tr>
 </table>
+
 
 
 
