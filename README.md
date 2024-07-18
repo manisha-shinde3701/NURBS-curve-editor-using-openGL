@@ -146,7 +146,8 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/42f70441-c747-43dd-8656-e3a3b7e2d196" alt="Conclusion" width="300">
+      <img src="https://github.com/user-attachments/assets/23de0976-cb6e-46a9-935e-d251f5baed14"
+ alt="Conclusion" width="300">
     </td>
     <td>
       <h2>Conclusion</h2>
