@@ -44,6 +44,19 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5a349f9b-01f5-4bef-8dcf-0f1ac5bfa24d" alt="Quadratic Curves" width="300">
+    </td>
+    <td>
+      <h3>Quadratic curves</h3>
+      <p>A quadratic Bézier curve is the path traced by the function <em>B(t)</em>, given points <em>P<sub>0</sub></em>, <em>P<sub>1</sub></em>, and <em>P<sub>2</sub></em>.</p>
+      <p><em>B(t) = (1 - t)[(1 - t)<em>P<sub>0</sub></em> + t<em>P<sub>1</sub></em>] + t[(1 - t)<em>P<sub>1</sub></em> + t<em>P<sub>2</sub></em>], 0 &le; t &le; 1</em></p>
+    </td>
+  </tr>
+</table>
+
 
 
 
