@@ -143,6 +143,22 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/42f70441-c747-43dd-8656-e3a3b7e2d196" alt="Conclusion" width="300">
+    </td>
+    <td>
+      <h2>Conclusion</h2>
+      <h3>1. Powerful Tools</h3>
+      <p>Bezier curves, B-splines, and NURBS are powerful tools that enable the design and creation of complex, organic shapes that are essential in modern product design, engineering, and visual effects.</p>
+      <h3>2. Continuous Evolution</h3>
+      <p>As technology continues to advance, these curve representations will likely evolve and be integrated into even more sophisticated design and engineering workflows.</p>
+      <h3>3. Exciting Future</h3>
+      <p>The future of curve-based design holds great promise, with the potential for even more innovative applications and breakthroughs in various industries.</p>
+    </td>
+  </tr>
+</table>
 
 
 
