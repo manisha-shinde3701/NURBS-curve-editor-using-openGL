@@ -57,8 +57,20 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
   </tr>
 </table>
 
-
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/84357202-6ce6-4385-9ca9-4f6e79b4533a" alt="Cubic Curves" width="300">
+    </td>
+    <td>
+      <h3>Cubic curves</h3>
+      <p>For cubic curves one can construct intermediate points Q0, Q1, and Q2 that describe linear Bézier curves, and points R0 and R1 that describe quadratic Bézier curves:</p>
+      <p><em>linear = (1 - t) + t</em></p>
+      <p><em>square = (1 - t)² + 2 · (1 - t) · t + t²</em></p>
+      <p><em>cubic = (1 - t)³ + 3 · (1 - t)² · t + 3 · (1 - t) · t² + t³</em></p>
+    </td>
+  </tr>
+</table>
 
 
 
