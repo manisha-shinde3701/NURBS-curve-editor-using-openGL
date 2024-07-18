@@ -73,6 +73,30 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
 </table>
 
 ![image](https://github.com/user-attachments/assets/dd193998-ba33-486a-a8a4-5473bd3c1a20)
+<h1 align="center">Industrial Applications</h1>
+
+<table>
+  <tr>
+    <td>
+      <h3>1️⃣ Product Design</h3>
+      <p>Bezier, B-spline, and NURBS curves are extensively used in CAD software to design the smooth, organic shapes of products like cars, electronics, and consumer goods.</p>
+    </td>
+    <td>
+      <h3>2️⃣ Animation and Visual Effects</h3>
+      <p>These curve representations are crucial for creating fluid, natural-looking motion and deformations of 3D models in animation and visual effects.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>3️⃣ Architectural Modeling</h3>
+      <p>Curved surfaces created with these techniques are important for designing innovative, sculptural architectural forms.</p>
+    </td>
+    <td>
+      <h3>4️⃣ Medical Imaging</h3>
+      <p>NURBS are used to accurately model complex anatomical structures from medical scans for diagnosis and treatment planning.</p>
+    </td>
+  </tr>
+</table>
 
 
 
