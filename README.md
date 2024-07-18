@@ -114,6 +114,31 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
     </td>
   </tr>
 </table>
+# Achievements and Insights
+
+<table>
+  <tr>
+    <td>
+      <h3>Understanding Curve Representations</h3>
+      <p>Through this project, I gained a deep understanding of the mathematical foundations and practical applications of Bezier curves, B-splines, and NURBS.</p>
+    </td>
+    <td>
+      <h3>Importance in CAD/CAM</h3>
+      <p>I recognized the crucial role these curve representations play in the CAD/CAM industry, enabling the design of complex, organic shapes that are essential for modern product design and manufacturing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Opportunities for Innovation</h3>
+      <p>Exploring these curve techniques inspired me to consider how they could be further developed and applied to create even more advanced design and engineering tools.</p>
+    </td>
+    <td>
+      <h3>Practical Implementation</h3>
+      <p>By implementing the algorithms myself, I gained hands-on experience in working with these mathematical models and a deeper appreciation for their computational complexity.</p>
+    </td>
+  </tr>
+</table>
+
 
 
 
