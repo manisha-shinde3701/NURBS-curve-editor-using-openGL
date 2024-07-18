@@ -29,6 +29,19 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td>
+      <img src="![image](https://github.com/user-attachments/assets/46e590db-05ba-41d9-bdaa-f8bb4e4b3cc7)
+" alt="Linear Curves" width="300">
+    </td>
+    <td>
+      <h3>Linear curves</h3>
+      <p>Let <em>t</em> denote the fraction of progress (from 0 to 1) the point <em>B(t)</em> has made along its traversal from <em>P<sub>0</sub></em> to <em>P<sub>1</sub></em>. For example, when <em>t=0.25</em>, <em>B(t)</em> is one quarter of the way from point <em>P<sub>0</sub></em> to <em>P<sub>1</sub></em>. As <em>t</em> varies from 0 to 1, <em>B(t)</em> draws a line from <em>P<sub>0</sub></em> to <em>P<sub>1</sub></em>.</p>
+      <p><em>B(t) = P<sub>0</sub> + t(P<sub>1</sub> - P<sub>0</sub>) = (1 - t)P<sub>0</sub> + tP<sub>1</sub>, 0 &le; t &le; 1</em></p>
+    </td>
+  </tr>
+</table>
 
 
 
