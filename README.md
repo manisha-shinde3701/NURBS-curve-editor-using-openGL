@@ -13,9 +13,7 @@ A Bezier curve is defined by a set of control points. The curve passes through t
 
 ![image](https://github.com/user-attachments/assets/1d4b0771-10fb-4e52-bcf6-3d262e58f695) 
 
-A B-spline is a piecewise polynomial curve defined by a set of control points. It provides local control, meaning changes to the control points only affect the nearby section of the curve.
-
-![image](https://github.com/user-attachments/assets/fe5b446f-4ab5-4722-8a05-1baa0de34c82) 
+A B-spline is a piecewise polynomial curve defined by a set of control points. It provides local control, meaning changes to the control points only affect the nearby section of the curve.![image](https://github.com/user-attachments/assets/fe5b446f-4ab5-4722-8a05-1baa0de34c82) 
 
 NURBS (Non-Uniform Rational B-Splines) are a generalization of B-splines that can represent both analytical (e.g., circles) and freeform shapes with a high degree of accuracy.
 
