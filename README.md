@@ -16,15 +16,15 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/613ad060-7c12-4f5b-a262-34096e1a513b" alt="Bezier Curve">
+<!--       <img src="https://github.com/user-attachments/assets/613ad060-7c12-4f5b-a262-34096e1a513b" alt="Bezier Curve"> -->
       <p>A Bezier curve is defined by a set of control points. The curve passes through the first and last points and is influenced by the intermediate control points, creating smooth, intuitive curves.</p>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/1d4b0771-10fb-4e52-bcf6-3d262e58f695" alt="B-spline">
+<!--       <img src="https://github.com/user-attachments/assets/1d4b0771-10fb-4e52-bcf6-3d262e58f695" alt="B-spline"> -->
       <p>A B-spline is a piecewise polynomial curve defined by a set of control points. It provides local control, meaning changes to the control points only affect the nearby section of the curve.</p>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/fe5b446f-4ab5-4722-8a05-1baa0de34c82" alt="NURBS">
+<!--       <img src="https://github.com/user-attachments/assets/fe5b446f-4ab5-4722-8a05-1baa0de34c82" alt="NURBS"> -->
       <p>NURBS (Non-Uniform Rational B-Splines) are a generalization of B-splines that can represent both analytical (e.g., circles) and freeform shapes with a high degree of accuracy.</p>
     </td>
   </tr>
