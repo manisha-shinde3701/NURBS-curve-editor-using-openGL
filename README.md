@@ -31,6 +31,23 @@ A spline was a long, flexible piece of plastic or wood with a rectangular cross-
 </table>
 <table>
   <tr>
+<!--     <td>
+      <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE" alt="Project Overview" width="300">
+    </td> -->
+    <td>
+      <h3>My Project: Exploring Curve Representations</h3>
+      <h4>Bezier Curves</h4>
+      <p>Implemented a Bezier curve algorithm to generate smooth curves from a set of control points. Explored how adjusting the control points affects the shape of the curve.</p>
+      <h4>B-Splines</h4>
+      <p>Developed a B-spline curve implementation, demonstrating how local control allows for efficient editing and manipulation of complex shapes.</p>
+      <h4>NURBS</h4>
+      <p>Implemented a NURBS curve algorithm, showcasing its ability to represent both analytical and freeform shapes with high accuracy.</p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <table>
   <tr>
     <td>
